@@ -1,8 +1,8 @@
 "use client";
 import { Typography } from "antd";
 import React, { useState } from "react";
-import Notiications from "../Notifications";
-import Activities from "../Activities";
+import Notiications from "../components/Notifications";
+import Activities from "../components/Activities";
 import { StarOutlined } from "@ant-design/icons";
 const { Title } = Typography;
 
